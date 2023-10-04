@@ -189,10 +189,7 @@ file
 file-roller
 findutils
 firefox-esr
-firmware-iwlwifi
 firmware-linux-free
-firmware-misc-nonfree
-firmware-sof-signed
 flatpak
 folks-common
 fontconfig
@@ -448,7 +445,6 @@ inkscape
 install-info
 installation-report
 intel-media-va-driver:amd64
-intel-microcode
 ipcalc
 ipp-usb
 iproute2
