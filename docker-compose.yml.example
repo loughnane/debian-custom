@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  debian-service:
+    image: debian-custom:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - /Users/YourUsername:/home/username
+    command: /bin/bash
+    stdin_open: true
+    tty: true
+
